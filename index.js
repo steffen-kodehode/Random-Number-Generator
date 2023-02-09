@@ -106,7 +106,7 @@ function randomNumberGeneratior() {
   }
 
   randomStringOne.textContent = password1.slice(0, 15);
-  randomStringTwo.textContent = password2.slice(0, 15);
+  randomStringTwo.textContent = password2.slice(0, 8);
 }
 
 randomNumberGeneratior();

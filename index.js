@@ -109,5 +109,5 @@ function randomNumberGeneratior() {
   randomStringTwo.textContent = password2.slice(0, 8);
 }
 
-randomNumberGeneratior();
+// randomNumberGeneratior();
 // console.log(randomNumberGeneration());
